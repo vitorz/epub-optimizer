@@ -53,7 +53,7 @@ pip install -r requirements.txt
     resolution = 1100x1400
     ```
     
-    Take into account that epub viewer software could you use some margins diplaying picture, so the resolution to write in this file is not the real one, but one which should include the applied margins.
+    Take into account that epub viewer software could you apply some margins diplaying picture, so the resolution to write in this file is not the actual device screen resolution, but one which should include the applied margins.
 
 1. To run the project, try this command (see all the available options through `--help`)
 
